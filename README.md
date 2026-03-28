@@ -24,7 +24,7 @@ Salus is a secure, stateful AI agent that acts as a **companion, memory aid, and
 
 | Requirement | Daytona Solution |
 |-------------|------------------|
-| **Persistent memory** | Stateful workspaces with attached volumes (SQLite database) that survive restarts. |
+| **Persistent memory** | Stateful workspaces with attached volumes that survive restarts. |
 | **Safe task automation** | On‑demand **Computer Use Sandboxes** (Linux/Windows) where the agent runs browser automation (Playwright) to fill forms—completely isolated from the host system. |
 | **AI‑generated code execution** | Secure sandboxes for executing helper scripts without risk. |
 | **Human oversight** | Built‑in SSH access, VS Code browser, and web terminal for real‑time debugging or intervention. |
